@@ -3,7 +3,6 @@
 - 🔭 I really like learning new things related to technology. 
 - 🌱 I currently focus on Fullstack Developer, SQA Engineer, and UI / UX. 
 - 👯 I’m looking to collaborate with people who are able to work in teams.
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listening to the music and play piano
 
 ### Connect with me:
