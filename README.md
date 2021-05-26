@@ -1,7 +1,7 @@
 ### Hi there, I'm Evan Sianipar  👋
 
 - 🔭 I really like learning new things related to technology. 
-- 🌱 I currently focus on Fullstack Developer, SQA Engineer, and UI / UX. 
+- 🌱 I currently focus on Software Developer, SQA Engineer, and UI / UX. 
 - 👯 I’m looking to collaborate with people who are able to work in teams.
 - ⚡ Fun fact: I love listening to music and playing the piano
 
