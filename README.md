@@ -1,5 +1,7 @@
 ### Hi there, I'm Evan Sianipar  👋
 
+![github stats](https://github-readme-stats.vercel.app/api?username=AzharRivaldi&show_icons=true&theme=radical)
+
 - 🔭 I love to learn new things about technology.
 - 🌱 I currently focus on Software Developer, SQA Engineer, and UI / UX. 
 - 👯 I’m looking to collaborate with people who are able to work in teams.
