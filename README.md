@@ -5,12 +5,6 @@
 - 👯 I’m looking to collaborate with people who are able to work in teams.
 - ⚡ Fun fact: I love listening to music and playing the piano
 
-![github stats](https://github-readme-stats.vercel.app/api?username=evansianipar06&show_icons=true&theme=radical)
-
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=evansianipar06&repo=fe-kampus-indonesia&theme=gruvbox)](https://github.com/evansianipar06/fe-kampus-indonesia)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=evansianipar06&repo=Tracking-Vaksin&theme=dracula)](https://github.com/evansianipar06/Tracking-Vaksin)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=evansianipar06&repo=Booking-Hotel&theme=highcontrast)](https://github.com/evansianipar06/Booking-Hotel)
-
 
 ### Connect with me:
 
