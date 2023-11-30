@@ -1,9 +1,8 @@
 ### Hi there, I'm Evan Sianipar  👋
 
-- 🔭 I love to learn new things about technology.
-- 🌱 I currently focus on Software Developer, SQA Engineer, and UI / UX. 
-- 👯 I’m looking to collaborate with people who are able to work in teams.
-- ⚡ Fun fact: I love listening to music and playing the piano
+- 🔭 Love to learn new things about technology.
+- 🌱 Currently focus on Software Engineering. 
+- ⚡ Fun fact: - 
 
 
 ### Connect with me:
